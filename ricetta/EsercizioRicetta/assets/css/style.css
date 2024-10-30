@@ -1,0 +1,42 @@
+html body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.titolo{
+    text-align: center;
+}
+.photo{
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+    
+}
+#testobanner{
+    text-align: center;
+    
+}
+.banner{
+    
+    background-color:lightyellow;
+    
+    padding: 15px;
+}
+  
+    
+
+.featured {   
+    
+    margin: 0 auto;
+    width: 50%;
+    border-left: solid 2px orange;
+}
+.featured a{
+    color:  rgba(0, 128, 0, 0.778);
+}
+
+.ingredienti{
+    
+    margin: 0 auto;
+    width: 50%;
+   
+}
